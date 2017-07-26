@@ -1,2 +1,2 @@
 # testScripts
-Collection of sample scripts
+Collection of sample python scripts
